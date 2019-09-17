@@ -13,7 +13,7 @@ forever(function () {
 })
 
 input.buttonA.onEvent(ButtonEvent.Click, function () {
-    if (Pos == 2) {
+    if (Pos == 3) {
         Wins += 1
         light.setAll(0x00ff00)
     } else if (Wins > 0) {
