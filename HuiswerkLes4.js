@@ -1,5 +1,5 @@
 /*
-  Code voorbeeld programmeerles van week 1.5.
+  Code voorbeeld programmeerles 4 in week 1.5.
   hierbij ook een uitbreiding voor de gene die al vooruit willen werken.
   voor hulp of uitleg of verbeteringen ben ik berijkbaar op discord (Gebr: AMN).
 */
