@@ -1,0 +1,77 @@
+1. 
+Student = "BasBoot"
+Year = 2
+Courses = {"PRG1", "PRG2", "PRG4"}
+Points = 7
+
+2. 
+a. True
+b. True
+c. False
+d. True
+e. False
+f. True
+
+3. 
+A.
+Console.log(`Mijn favoriete block is ${blocksGehaald[favoriteBlock]}!`)
+Console.log(`Ik heb ${blocksGehaald.length} building blocks gehaald!`)
+
+B.
+Console.log(`Ik moet nog ${12 - blocksGehaald.length} building blocks halen!`)
+
+C.
+If(cleGehaald == true && blocksGehaald.length >= 3) {
+Console.log("Ik heb mijn studiepunten voor CLE binnen!!")
+}
+
+4. 
+10
+11
+12
+13
+
+B.
+For (let i = 21; i < 26; i++){
+Console.log(i)
+}
+
+C.
+
+For (let i = 50; i > 40; i -=  2){
+Console.log(i)
+}
+
+5. 
+A.
+Let Namen = ["Harry Potter", "Darth Vader", "Bilbo Baggins"]
+
+B.
+Namen.push("Ron Burgundy")
+
+C.
+For (let i = 0; i < Namen.length; i++) {
+Console.log(`${Namen[i]} is nummer ${i + 1}!`)
+}
+
+6. 
+A:
+Function showMessage(name: string) {
+console.log(`Hi there, ${name}!`)
+}
+
+B:
+Function calculateCosts(a: number, b: number){ 
+console.log(`De totale kosten zijn ${a + b} euro`)
+}
+
+C:
+Function getName(){
+return "Jimmy Bob"
+}
+
+7. 
+a. Ja, een parameter die opneemt welke kleur vertoont moet worden en light.setAll die die parameter gebruikt.
+b. De functie moet drie keer geroepen worden. 1 keer voor rood , 1 keer voor blauw, 1 keer voor geel. Tussen elke oproep van de functie moet een lang genoege pause komen zodat je de kleur ook echt kan zien.
+c. Ja, door een andere kleurcode in de parameter te stoppenkan je die kleur laten zien, aangezien de light.setAll alle kleurcodes kan herkennen.
+
